@@ -40,5 +40,7 @@ def copy_website(url):
         print("Failed to copy website")
 
 # Example usage
-copy_website("https://www.hackittech.com/")
+copy_website("https://www.example.com/") 
+
+
 
